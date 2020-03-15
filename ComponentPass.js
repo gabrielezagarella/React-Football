@@ -1,0 +1,138 @@
+export const comonentpass = {
+    users: [
+      {
+        img:require("./assets/Wojciech.jpg"),
+        name: "Wojciech",
+        surname: "Szczęsny",
+        role: "Goalkeeper",
+      },
+      {
+        img:require("./assets/Mattia.jpg"),
+        name: "Mattia",
+        surname: "De Sciglio",
+        role: "Defender",
+      },
+      {
+        img:require("./assets/Giorgio.jpg"),
+        name: "Giorgio",
+        surname: "Chiellini",
+        role: "Defender",
+      },
+      {
+        img:require("./assets/Matthijs.jpg"),
+        name: "Matthijs",
+        surname: "de Ligt",
+        role: "Defender",
+      },
+      {
+        img:require("./assets/Miralem.jpg"),
+        name: "Miralem",
+        surname: "Pjanić",
+        role: "Midfielder",
+      },
+      {
+        img:require("./assets/Sami.jpg"),
+        name: "Sami",
+        surname: "Khedira",
+        role: "Midfielder",
+      },{
+        img:require("./assets/Cristiano.jpg"),
+        name: "Cristiano",
+        surname: "Ronaldo",
+        role: "Striker",
+      },
+      {
+        img:require("./assets/Aaron.jpg"),
+        name: "Aaron",
+        surname: "Ramsey",
+        role: "Midfielder",
+      },
+      {
+        img:require("./assets/Paulo.jpg"),
+        name: "Paulo",
+        surname: "Dybala",
+        role: "Striker",
+      },
+      {
+        img:require("./assets/Douglas.jpg"),
+        name: "Douglas",
+        surname: "Costa",
+        role: "Striker",
+      },
+      {
+        img:require("./assets/Alex.jpg"),
+        name: "Alex",
+        surname: "Sandro",
+        role: "Defender",
+      },
+      {
+        img:require("./assets/Danilo.jpg"),
+        name: "Danilo",
+        surname: "Luiz da Silva",
+        role: "Defender",
+      },
+      {
+        img:require("./assets/Blaise.jpg"),
+        name: "Blaise",
+        surname: "Matuidi",
+        role: "Midfielder",
+      },
+      {
+        img:require("./assets/Juan.jpg"),
+        name: "Juan",
+        surname: "Cuadrado",
+        role: "Striker",
+      },{
+        img:require("./assets/Leonardo.jpg"),
+        name: "Leonardo",
+        surname: "Bonucci",
+        role: "Defender",
+      },
+      {
+        img:require("./assets/Gonzalo.jpg"),
+        name: "Gonzalo",
+        surname: "Higuaín",
+        role: "Striker",
+      },
+      {
+        img:require("./assets/Daniele.jpg"),
+        name: "Daniele",
+        surname: "Rugani",
+        role: "Defender",
+      },{
+        img:require("./assets/Adrien.jpg"),
+        name: "Adrien",
+        surname: "Rabiot",
+        role: "Midfielder",
+      },
+      {
+        img:require("./assets/Merih.jpg"),
+        name: "Merih",
+        surname: "Demiral",
+        role: "Defender",
+      },
+      {
+        img:require("./assets/Rodrigo.jpg"),
+        name: "Rodrigo",
+        surname: "Bentancur",
+        role: "Midfielder",
+      },{
+        img:require("./assets/Carlo.jpg"),
+        name: "Carlo",
+        surname: "Pinsoglio",
+        role: "Goalkeeper",
+      },
+      {
+        img:require("./assets/Federico.jpg"),
+        name: "Federico",
+        surname: "Bernardeschi",
+        role: "Striker",
+      },
+      {
+        img:require("./assets/Gianluigi.jpg"),
+        name: "Gianluigi",
+        surname: "Buffon",
+        role: "Goalkeeper",
+      },
+    ],
+  }
